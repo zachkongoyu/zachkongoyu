@@ -1,5 +1,4 @@
-# The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn.
-# The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.
+# There always someone better than you, be humble.
 
 <!---
 zachkongoyu/zachkongoyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
