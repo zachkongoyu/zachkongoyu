@@ -1,4 +1,4 @@
-# There are always someone smarter, stronger and better than you, be humble.
+# There is always someone smarter, stronger and better than you, stay humble.
 
 <!---
 zachkongoyu/zachkongoyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
