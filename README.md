@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @zachkongoyu
-- 👀 I’m interested in quant and ML.
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.
 
 <!---
 zachkongoyu/zachkongoyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
