@@ -1,3 +1,4 @@
+# The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn.
 # The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.
 
 <!---
